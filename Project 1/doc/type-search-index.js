@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"edu.waketech.csc251.collection","l":"DataSetGeneric"},{"p":"edu.waketech.csc251.collection","l":"Measurable"},{"p":"edu.waketech.csc251.hr","l":"Payroll"},{"p":"edu.waketech.csc251.tools","l":"Screener"},{"p":"edu.waketech.csc251.tools","l":"Utils"}]
